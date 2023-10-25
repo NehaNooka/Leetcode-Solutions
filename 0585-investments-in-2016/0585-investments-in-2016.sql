@@ -1,6 +1,7 @@
-# Write your MySQL query statement below
-select round(sum(tiv_2016),2) as tiv_2016
-from Insurance a
-where a.tiv_2015 in (Select tiv_2015 from Insurance where pid <> a.pid)
+select 
+round(sum(tiv_2016),2) as tiv_2016
+from Insurance 
+where 
+tiv_2015 in (select distinct tiv_2015 from Insurance group by tiv_2015 having count(*)>1)
 and
-(a.lat,a.lon) not in (select lat,lon from Insurance where pid<>a.pid)
+(lat,lon) in (select lat,lon from Insurance Group by lat,lon having count(*)=1)
