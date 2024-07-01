@@ -84,16 +84,19 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1293-three-consecutive-odds](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
