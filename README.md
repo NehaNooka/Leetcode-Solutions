@@ -121,4 +121,12 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
