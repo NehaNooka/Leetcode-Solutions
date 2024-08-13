@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
@@ -307,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
