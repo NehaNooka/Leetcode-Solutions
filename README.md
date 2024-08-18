@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1196-filling-bookcase-shelves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
