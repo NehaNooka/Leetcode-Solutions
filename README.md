@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -272,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
