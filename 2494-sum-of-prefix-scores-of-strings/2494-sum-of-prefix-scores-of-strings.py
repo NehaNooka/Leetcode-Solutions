@@ -1,15 +1,32 @@
+class TrieNode:
+    def __init__(self):
+        self.children={}
+        self.counts=0
+    
+    def insert(self,word):
+        cur=self
+        for c in word:
+            if c not in cur.children:
+                cur.children[c]=TrieNode()
+            cur=cur.children[c]
+            cur.counts+=1
+
+    def search(self,word):
+        res=0
+        cur=self
+        for c in word:
+            cur=cur.children[c]
+            res+=cur.counts
+        return res
+
 class Solution:
     def sumPrefixScores(self, words: List[str]) -> List[int]:
         res=[]
-        count=defaultdict(int)
-        for w in words:
-            for i in range(len(w)):
-                count[w[:i+1]]+=1
-        
-        for w in words:
-            score=0
-            for i in range(len(w)):
-                score+=count[w[:i+1]]
-            res.append(score)
+        root=TrieNode()
+        for word in words:
+            root.insert(word)
+ 
+        for word in words:
+            res.append(root.search(word))
         return res
         
