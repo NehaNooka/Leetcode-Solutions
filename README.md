@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0069-sqrtx](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -561,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -610,4 +613,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
