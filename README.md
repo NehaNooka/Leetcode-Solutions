@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -533,6 +535,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
