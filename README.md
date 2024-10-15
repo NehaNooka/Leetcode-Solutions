@@ -562,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
