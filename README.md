@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
