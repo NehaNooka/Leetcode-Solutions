@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
@@ -494,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
@@ -592,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
@@ -608,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
