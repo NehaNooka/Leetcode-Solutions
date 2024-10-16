@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
@@ -520,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
