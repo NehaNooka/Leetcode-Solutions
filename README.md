@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0948-sort-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0729-my-calendar-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
 |  |
@@ -583,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
