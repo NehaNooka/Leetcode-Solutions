@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
