@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -451,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -463,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
