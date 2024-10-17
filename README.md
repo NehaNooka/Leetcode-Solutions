@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -601,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -673,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
