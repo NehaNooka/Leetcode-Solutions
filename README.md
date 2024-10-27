@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -736,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 ## Enumeration
