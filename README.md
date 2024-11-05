@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0211-design-add-and-search-words-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
+| [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -524,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -749,11 +752,13 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 ## Trie
 |  |
 | ------- |
