@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -547,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -575,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0004-median-of-two-sorted-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0948-sort-an-array) |
