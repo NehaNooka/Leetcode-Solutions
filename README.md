@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0048-rotate-image](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -368,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0624-maximum-distance-in-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
@@ -645,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
