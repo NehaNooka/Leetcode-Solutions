@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0127-word-ladder) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0048-rotate-image](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
