@@ -333,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0043-multiply-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1642-water-bottles) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0812-rotate-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -564,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
