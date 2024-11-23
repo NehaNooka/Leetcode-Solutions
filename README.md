@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -602,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -623,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1731-even-odd-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
