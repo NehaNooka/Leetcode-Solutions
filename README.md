@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0143-reorder-list) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0043-multiply-strings) |
@@ -739,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
