@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1304-longest-happy-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -779,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
