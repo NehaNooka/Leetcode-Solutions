@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1694-make-sum-divisible-by-p](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -591,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
