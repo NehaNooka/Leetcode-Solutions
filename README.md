@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1738-maximal-network-rank](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1738-maximal-network-rank) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2554-minimum-total-distance-traveled](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
@@ -726,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
@@ -796,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
