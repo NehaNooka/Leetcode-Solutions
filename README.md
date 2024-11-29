@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0133-clone-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -638,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -826,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
