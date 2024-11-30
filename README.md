@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [1923-sentence-similarity-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1741-sort-array-by-increasing-frequency](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2089-maximum-matrix-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -763,6 +766,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0948-sort-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
