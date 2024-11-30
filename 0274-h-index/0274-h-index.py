@@ -4,7 +4,7 @@ class Solution:
         paper_count=[0]*(n+1)
 
         for c in citations:
-            paper_count[(min(n,c))]+=1
+            paper_count[(min(n,c))]+=1 #[1,1,0,1,0,2]
         
         h=n
         paper=paper_count[h]
