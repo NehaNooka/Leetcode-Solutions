@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0133-clone-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -690,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0226-invert-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -837,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
