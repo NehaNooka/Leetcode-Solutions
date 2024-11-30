@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1738-maximal-network-rank) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2201-valid-arrangement-of-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
@@ -1032,4 +1034,8 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
