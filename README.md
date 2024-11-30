@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0008-string-to-integer-atoi](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -974,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
