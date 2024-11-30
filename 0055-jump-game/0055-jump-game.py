@@ -1,6 +1,6 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        jump=len(nums)-1
+        jump=len(nums)-1 #index
 
         for i in range(len(nums)-1,-1,-1):
             if i+nums[i]>=jump:
