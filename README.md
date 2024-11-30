@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0070-climbing-stairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -548,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0021-merge-two-sorted-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
@@ -578,6 +580,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0211-design-add-and-search-words-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -636,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0143-reorder-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
