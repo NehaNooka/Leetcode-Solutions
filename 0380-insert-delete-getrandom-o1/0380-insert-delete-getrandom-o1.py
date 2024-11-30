@@ -13,7 +13,7 @@ class RandomizedSet:
     
     def remove(self,val: int) -> bool:
         res=val in self.nDict
-        if res: #[1,2,3,4] 2
+        if res: #[1,2,3,4] 2->[1,4,3]
             index=self.nDict[val]
             new_val=self.nList[-1]
             self.nList[index]=new_val
