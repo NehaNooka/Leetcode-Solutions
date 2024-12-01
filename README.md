@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -387,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
@@ -414,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -442,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
