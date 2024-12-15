@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1803-average-waiting-time) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
+| [1917-maximum-average-pass-ratio](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1304-longest-happy-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1917-maximum-average-pass-ratio](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
