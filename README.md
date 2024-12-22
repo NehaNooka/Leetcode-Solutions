@@ -287,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2755-extra-characters-in-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
 | ------- |
@@ -819,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Merge Sort
 |  |
@@ -898,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Design
 |  |
 | ------- |
@@ -1049,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0729-my-calendar-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1069,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Enumeration
 |  |
 | ------- |
