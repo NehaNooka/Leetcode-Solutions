@@ -197,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0494-target-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -879,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -948,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0039-combination-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
