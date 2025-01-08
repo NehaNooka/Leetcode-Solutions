@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0001-two-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0005-longest-palindromic-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
