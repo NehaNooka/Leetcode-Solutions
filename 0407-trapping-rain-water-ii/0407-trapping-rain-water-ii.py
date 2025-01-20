@@ -1,40 +1,28 @@
 class Solution:
     def trapRainWater(self, height: List[List[int]]) -> int:
-        dir = (0, 1, 0, -1, 0)
-        m, n = len(height), len(height[0])
-        if m <= 2 or n <= 2:
-            return 0
+        ROWS,COLS=len(height),len(height[0])
+        
+        #1. Add borders to min,Heap -> then mark as visited
+        min_heap=[] # height,r,c
+        for r in range(ROWS):
+            for c in range(COLS):
+                if r in [0,ROWS-1] or c in [0,COLS-1]:
+                    heapq.heappush(min_heap,(height[r][c],r,c))
+                    height[r][c]=-1
+        
+        #2. Prioritize smaller heights-> Maintain max height to calculate water stored in each inner cells
+        res,max_h=0,-1
+        while min_heap:
+            h,r,c=heapq.heappop(min_heap)
+            max_h=max(max_h,h)
+            res+=max_h-h
 
-        boundary = []
-        for i in range(m):
-            boundary.append((height[i][0], i, 0))
-            boundary.append((height[i][-1], i, n - 1))
-            height[i][0] = height[i][-1] = -1
-
-        for j in range(1, n - 1):
-            boundary.append((height[0][j], 0, j))
-            boundary.append((height[-1][j], m - 1, j))
-            height[0][j] = height[-1][j] = -1
-
-        heapify(boundary)
-        ans, water_level = 0, 0
-
-        while boundary:
-            h, i, j = heappop(boundary)
-
-            water_level = max(water_level, h)
-
-            for a in range(4):
-                i0, j0 = i + dir[a], j + dir[a + 1]
-                if i0 < 0 or i0 >= m or j0 < 0 or j0 >= n or height[i0][j0] == -1:
-                    continue
-                currH = height[i0][j0]
-                if currH < water_level:
-                    ans += water_level - currH
-
-                height[i0][j0] = -1
-                heappush(boundary, (currH, i0, j0))
-        return ans
+            neighbors=[[r+1,c],[r-1,c],[r,c+1],[r,c-1]]
+            for nr,nc in neighbors:
+                if (nr<0 or nr==ROWS or nc<0 or nc==COLS or height[nr][nc]==-1): continue
+                heapq.heappush(min_heap,(height[nr][nc],nr,nc))
+                height[nr][nc]=-1
+        return res
  
 
         
