@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0141-linked-list-cycle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0056-merge-intervals](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0274-h-index) |
@@ -841,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0053-maximum-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -896,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
