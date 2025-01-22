@@ -8,10 +8,10 @@ class Solution:
                 if isWater[r][c]==1:
                     res[r][c]=0
                     q.append((r,c))
-        
+
+        direction=[[1,0],[-1,0],[0,-1],[0,1]]        
         while q:
             i,j=q.popleft()
-            direction=[[1,0],[-1,0],[0,-1],[0,1]]
             for dr,dc in direction:
                 r,c=i+dr,j+dc
                 if r<0 or c<0 or r==R or c==C or res[r][c]!=-1: continue
