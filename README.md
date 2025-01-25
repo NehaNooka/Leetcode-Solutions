@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Array
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -535,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
