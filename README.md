@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1731-even-odd-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1731-even-odd-tree) |
 | [1876-map-of-highest-peak](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1738-maximal-network-rank](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1738-maximal-network-rank) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0210-course-schedule-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1558-course-schedule-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
