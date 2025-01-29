@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0386-lexicographical-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0322-coin-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0133-clone-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1325-path-with-maximum-probability) |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
