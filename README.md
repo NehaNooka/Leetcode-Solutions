@@ -240,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -1018,6 +1020,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0729-my-calendar-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1111,6 +1114,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1153,6 +1157,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
+| [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
