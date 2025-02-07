@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
@@ -678,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
