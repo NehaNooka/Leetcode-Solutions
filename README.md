@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2089-maximum-matrix-sum) |
+| [2107-find-unique-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2155-find-missing-observations) |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -789,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1106,6 +1109,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
