@@ -5,27 +5,15 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
-        self.s = traversal
-        self.idx = 0
-        self.level = 0
-        node = TreeNode(-1)
-        self.helper(node, 0)
-        return node.left
+    def recoverFromPreorder(self, traversal: str) -> TreeNode:
+        for i in range(100,0,-1):
+            traversal = traversal.replace("-"*i,chr(i+65))
 
-    def helper(self, parent, lvl):
-        while self.idx < len(self.s) and lvl == self.level:
-            num = 0
-            while self.idx < len(self.s) and self.s[self.idx].isdigit():
-                num = num * 10 + int(self.s[self.idx])
-                self.idx += 1
-            node = TreeNode(num)
-            if not parent.left:
-                parent.left = node
-            else:
-                parent.right = node
-            self.level = 0
-            while self.idx < len(self.s) and self.s[self.idx] == '-':
-                self.level += 1
-                self.idx += 1
-            self.helper(node, lvl + 1)
+        def function(result,depth):
+            result = result.split(chr(depth+65))
+            root = TreeNode(int(result[0]))
+            root.left = function(result[1],depth+1) if len(result) > 1 else None
+            root.right = function(result[2],depth+1) if len(result) > 2 else None
+            return root 
+
+        return function(traversal,1)
