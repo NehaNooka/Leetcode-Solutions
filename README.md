@@ -778,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1052,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1170-shortest-common-supersequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
