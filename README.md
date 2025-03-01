@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -527,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2232-adding-spaces-to-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -705,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2232-adding-spaces-to-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2551-apply-operations-to-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2645-pass-the-pillow) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
