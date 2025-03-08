@@ -829,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2300-construct-string-with-repeat-limit](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
@@ -952,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
