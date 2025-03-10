@@ -466,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -847,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -959,6 +961,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3483-alternating-groups-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
