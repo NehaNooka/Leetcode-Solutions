@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2035-count-sub-islands) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -526,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -564,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
@@ -638,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1043,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2434-design-a-number-container-system](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
