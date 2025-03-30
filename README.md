@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -555,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0557-reverse-words-in-a-string-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -672,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0670-maximum-swap](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -832,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
+| [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
