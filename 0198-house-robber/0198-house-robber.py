@@ -1,9 +1,10 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1,rob2=0,0
-        for n in range(len(nums)):
-            temp=max(rob1+nums[n], rob2)
-            rob1=rob2
-            rob2=temp
-        return rob2
-        
+        n=len(nums)
+        if n==1: return nums[0]
+        res=[0]*n
+        res[0]=nums[0]
+        res[1]=max(nums[0],nums[1])
+        for n in range(2,n):
+            res[n]=max(res[n-1],nums[n]+res[n-2])
+        return res[-1]
