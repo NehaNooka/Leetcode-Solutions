@@ -1,10 +1,9 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        n=len(nums)
-        if n==1: return nums[0]
-        res=[0]*n
-        res[0]=nums[0]
-        res[1]=max(nums[0],nums[1])
-        for n in range(2,n):
-            res[n]=max(res[n-1],nums[n]+res[n-2])
-        return res[-1]
+        res=[-1]*len(nums)
+        def dfs(i):
+            if i>= len(nums): return 0
+            if res[i]!=-1: return res[i]
+            res[i]=max(dfs(i+1) ,nums[i]+dfs(i+2))
+            return res[i]
+        return dfs(0)
