@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0820-find-eventual-safe-states](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0999-regions-cut-by-slashes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -457,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -961,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -993,6 +997,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
