@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0854-making-a-large-island](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
@@ -752,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0592-fraction-addition-and-subtraction](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
