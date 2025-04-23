@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
+| [1500-count-largest-group](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -762,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
