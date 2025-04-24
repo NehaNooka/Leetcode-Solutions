@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2792-neighboring-bitwise-xor](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2846-robot-collisions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -1057,6 +1059,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
