@@ -299,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -771,6 +772,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1240-stone-game-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
