@@ -592,6 +592,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -895,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -1202,6 +1204,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0650-2-keys-keyboard](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1025-minimum-cost-for-tickets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1170-shortest-common-supersequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
