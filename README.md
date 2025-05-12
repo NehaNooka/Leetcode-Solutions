@@ -483,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
+| [0299-bulls-and-cows](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0257-binary-tree-paths](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
@@ -1226,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0299-bulls-and-cows](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
