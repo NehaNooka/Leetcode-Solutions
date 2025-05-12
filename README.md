@@ -944,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0402-remove-k-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0482-license-key-formatting](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0482-license-key-formatting) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0551-student-attendance-record-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
