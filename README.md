@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0416-partition-equal-subset-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0349-intersection-of-two-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0240-search-a-2d-matrix-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0731-my-calendar-ii) |
@@ -704,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0350-intersection-of-two-arrays-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
