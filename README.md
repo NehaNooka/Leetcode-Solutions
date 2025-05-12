@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0160-intersection-of-two-linked-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -921,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0139-word-break](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0212-word-search-ii) |
