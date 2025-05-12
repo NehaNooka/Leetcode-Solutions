@@ -889,6 +889,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0012-integer-to-roman](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -987,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview!!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
