@@ -264,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0380-insert-delete-getrandom-o1](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0407-trapping-rain-water-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0539-minimum-time-difference](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0539-minimum-time-difference) |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0380-insert-delete-getrandom-o1](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0726-number-of-atoms) |
