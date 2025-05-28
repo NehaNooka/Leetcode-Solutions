@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -1119,6 +1121,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
