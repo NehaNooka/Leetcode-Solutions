@@ -762,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3430-count-days-without-meetings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3859-maximum-product-of-two-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -873,6 +874,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3859-maximum-product-of-two-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
