@@ -1084,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
@@ -1395,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1415,6 +1417,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
@@ -1603,6 +1606,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0316-remove-duplicate-letters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
