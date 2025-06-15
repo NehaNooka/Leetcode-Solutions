@@ -805,6 +805,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1304-longest-happy-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -871,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
