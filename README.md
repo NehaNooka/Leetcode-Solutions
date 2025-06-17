@@ -900,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
 |  |
@@ -1682,4 +1683,5 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3201-distribute-candies-among-children-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
