@@ -341,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1487-cinema-seat-allocation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -1336,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1901-equal-sum-arrays-with-minimum-number-of-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1901-equal-sum-arrays-with-minimum-number-of-operations) |
