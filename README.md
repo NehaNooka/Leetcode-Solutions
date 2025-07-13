@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2479-meeting-rooms-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2265-partition-array-according-to-given-pivot](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2551-apply-operations-to-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -787,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -854,6 +857,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
