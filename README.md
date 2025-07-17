@@ -480,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -1441,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
