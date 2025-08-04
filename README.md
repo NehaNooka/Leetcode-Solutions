@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -551,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -1282,6 +1284,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0594-longest-harmonious-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
