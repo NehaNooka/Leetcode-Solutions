@@ -935,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0670-maximum-swap](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0804-rotated-digits) |
+| [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1014-k-closest-points-to-origin](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -1449,6 +1450,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0678-valid-parenthesis-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1813,4 +1815,8 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3548-find-the-count-of-good-integers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
