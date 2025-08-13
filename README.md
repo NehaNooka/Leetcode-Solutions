@@ -928,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1029,6 +1030,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0231-power-of-two](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
