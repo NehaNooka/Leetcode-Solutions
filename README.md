@@ -943,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0797-rabbits-in-forest](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0804-rotated-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0804-rotated-digits) |
 | [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0870-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -1304,6 +1305,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0424-longest-repeating-character-replacement](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0867-new-21-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -1465,6 +1467,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [0804-rotated-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0804-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1839,4 +1842,5 @@ Collection of LeetCode questions to ace the coding interview!!
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
