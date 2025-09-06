@@ -519,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1008,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3859-maximum-product-of-two-digits) |
 ## Simulation
@@ -1693,6 +1695,7 @@ Collection of LeetCode questions to ace the coding interview!!
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/NehaNooka/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Linked List
 |  |
 | ------- |
